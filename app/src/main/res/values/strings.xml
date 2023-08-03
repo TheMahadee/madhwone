@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">madhw1</string>
+    <string name="app_full_name">MAD HW One</string>
+    <string name="page1">Home</string>
+    <string name="page2">List View</string>
+    <string name="to_page1">Home Page</string>
+    <string name="to_page2">List Page</string>
+    <string name="menuHome">Home</string>
+    <string name="menuList">List</string>
+    <string name="homepage_dtls">Welcome to MAD, Mobile Application development. In this project an options menu has been implemented as
+     well as an detailed list view.
+    </string>
+</resources>
